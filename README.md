@@ -1,2 +1,1 @@
-# bkk
-Galeri Foto Kegiatan Bursa Kerja Khusus SMK Al-Irsyad tegal
+# Galeri Foto Kegiatan Bursa Kerja Khusus SMK Al-Irsyad tegal
